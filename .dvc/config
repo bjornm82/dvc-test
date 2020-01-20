@@ -2,4 +2,6 @@
 url = s3://druid-index-eu-west-1/dvc/
 endpointurl = https://druid-index-eu-west-1.s3-eu-west-1.amazonaws.com
 [core]
-remote = s3remote
+remote = myremote
+['remote "myremote"']
+url = s3://druid-index-eu-west-1/dvc
