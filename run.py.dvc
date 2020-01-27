@@ -1,0 +1,7 @@
+md5: 1c2071d38a474d86ff759f7b1492b4e7
+outs:
+- md5: 41389fad42b57ba2c32816b9bff34768
+  path: run.py
+  cache: true
+  metric: false
+  persist: false
